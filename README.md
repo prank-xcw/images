@@ -14,7 +14,7 @@
 3.  Gitee创建私人令牌复制到PicGo进行配置
 
 #### 使用说明
-参考https://wwwblog.gitee.io/2020/12/14/20201214120503.html
+参考[PicGo+Gitee搭建图床]https://wwwblog.gitee.io/2020/12/14/20201214120503.html
 1.  xxxx
 2.  xxxx
 3.  xxxx
